@@ -26,5 +26,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CalebeRL)
+- Frontend Mentor - [@CalebeRL](https://www.frontendmentor.io/profile/CalebeRL)
 
